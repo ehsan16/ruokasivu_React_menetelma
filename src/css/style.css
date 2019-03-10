@@ -1,0 +1,7 @@
+.labelStyle {
+  width: 30em;
+  float: left;
+  font-weight: bold;
+  color: red;
+  background-color: skyblue;
+}
